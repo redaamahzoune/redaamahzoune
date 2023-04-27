@@ -2,15 +2,15 @@
 - Étudiant en première année universitaire au BTS Essaouira, section multimédia conception web
 - Connaissance informatique:
 
--Html
+    -Html
 
--Javascript
+    -Javascript
 
--CSS
+    -CSS
 
--C language 
+    -C language 
 
--mySQL 
+    -mySQL 
 
 
 
